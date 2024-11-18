@@ -8,9 +8,9 @@
 
 ``` bash
 conda create -n Interview python=3.10 -y 
-
-2. activate  the command 
-
+```
+2. Activate  the command 
+```bash
 conda activate Interview
 
 ```

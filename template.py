@@ -13,7 +13,8 @@ list_of_files = [
     "setup.py",
     "research/trials.ipynb",
     "app.py",
-    "templates/index.html"
+    "templates/index.html",
+    ".env"
 ]
 
 for filepath in list_of_files:

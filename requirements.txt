@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-core
+google-generativeai
+langchain-google-genai
+pypdf
+aiofiles
+fastapi
+uvicorn
+jinja2
+python-multipart
+PyPDF2
+faiss-cpu
+-e .
+
+
+

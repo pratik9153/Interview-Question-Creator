@@ -14,6 +14,10 @@ conda create -n Interview python=3.10 -y
 conda activate Interview
 
 ```
+3. Install requirements
+```bash
+pip install -r requirements
+```
 
 ### Github command 
 
